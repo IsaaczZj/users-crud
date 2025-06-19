@@ -59,7 +59,6 @@ export default function CreateUser() {
           throw new Error("Erro ao atualizar usuário");
         }
         const updateUser = await response.json();
-        console.log(`USUARIO ATUALIZADO ${updateUser}`);
 
         const newUsers = users?.map((user) =>
           user.id === selectedUser.id ? updateUser : user
@@ -78,7 +77,6 @@ export default function CreateUser() {
           throw new Error("Erro ao criar o usuário");
         }
         const newUser = await response.json();
-        console.log(`NOVO USUARIO ${{...newUser}}`);
 
         setUsers([...(users || []), newUser]);
         toast.success(`Usuário ${newUser.name} foi criado com sucesso`);
