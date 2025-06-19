@@ -116,8 +116,8 @@ export default function CreateUser() {
   return (
     <div className="h-screen w-screen bg-black flex flex-col items-center justify-center ">
       <div className="lg:w-[1280px] sm:max-w-7xl p-10 h-full">
-        <div className="flex w-full justify-between items-center mb-10">
-          <h1 className="text-3xl font-semibold">Cadastro de Usuários</h1>
+        <div className="flex w-full justify-between items-center gap-4">
+          <h1 className="text-3xl font-semibold ">Cadastro de Usuários</h1>
           <Button variant="green" onClick={() => selectionUser({ id: uuid() })}>
             Novo usuário
           </Button>

@@ -26,6 +26,7 @@ export default function FormUser({
           label="Email"
           value={user?.email ?? ""}
           onChange={({ target }) => editUser({ ...user, email: target.value })}
+          type="email"
         />
         <Input
           label="Senha"
