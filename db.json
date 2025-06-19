@@ -95,36 +95,6 @@
       "name": "Tatiana Ribeiro",
       "email": "tatiana.ribeiro@outlook.com",
       "password": "tatiana987"
-    },
-    {
-      "id": "04b254d8-bbf0-41b9-881d-1808c220a714",
-      "email": "isaac@email.com",
-      "password": "123123123",
-      "name": "Isaac"
-    },
-    {
-      "id": "7386bab0-3aaf-45cb-8ef8-4d0cfccadbdf",
-      "email": "isaac_dev",
-      "password": "123456",
-      "name": "asdd"
-    },
-    {
-      "id": "ee88de99-877b-4f30-b443-ee989c8a8983",
-      "email": "isaac_dev",
-      "password": "123456",
-      "name": "asdasd"
-    },
-    {
-      "id": "3ce3091d-8259-4767-b49c-9a1b71762c8b",
-      "email": "isaac_dev",
-      "password": "123456",
-      "name": "asdasdasdasd"
-    },
-    {
-      "id": "efab9d86-d2be-40d4-bcd5-42e9933a82f7",
-      "email": "isaac_dev",
-      "password": "123456",
-      "name": "asd"
     }
   ]
 }
