@@ -1,0 +1,124 @@
+{
+  "users": [
+    {
+      "id": "a1b2c3d4-e5f6-7890-1234-567890abcdef",
+      "name": "João Silva",
+      "email": "joao.silva@email.com",
+      "password": "123456"
+    },
+    {
+      "id": "b2c3d4e5-f6a7-8901-2345-67890abcdef0",
+      "name": "Maria Santos",
+      "email": "maria.santos@gmail.com",
+      "password": "maria123"
+    },
+    {
+      "id": "c3d4e5f6-a7b8-9012-3456-7890abcdef01",
+      "name": "Pedro Oliveira",
+      "email": "pedro.oliveira@hotmail.com",
+      "password": "pedro456"
+    },
+    {
+      "id": "d4e5f6a7-b8c9-0123-4567-890abcdef012",
+      "name": "Ana Costa",
+      "email": "ana.costa@outlook.com",
+      "password": "ana789"
+    },
+    {
+      "id": "e5f6a7b8-c9d0-1234-5678-90abcdef0123",
+      "name": "Carlos Mendes",
+      "email": "carlos.mendes@yahoo.com",
+      "password": "carlos2024"
+    },
+    {
+      "id": "f6a7b8c9-d0e1-2345-6789-0abcdef01234",
+      "name": "Beatriz Lima",
+      "email": "beatriz.lima@gmail.com",
+      "password": "beatriz321"
+    },
+    {
+      "id": "a7b8c9d0-e1f2-3456-7890-bcdef0123456",
+      "name": "Rafael Ferreira",
+      "email": "rafael.ferreira@email.com",
+      "password": "rafael654"
+    },
+    {
+      "id": "b8c9d0e1-f2a3-4567-8901-cdef01234567",
+      "name": "Juliana Rodrigues",
+      "email": "juliana.rodrigues@hotmail.com",
+      "password": "juliana987"
+    },
+    {
+      "id": "c9d0e1f2-a3b4-5678-9012-def012345678",
+      "name": "Lucas Pereira",
+      "email": "lucas.pereira@gmail.com",
+      "password": "lucas123"
+    },
+    {
+      "id": "d0e1f2a3-b4c5-6789-0123-ef0123456789",
+      "name": "Camila Alves",
+      "email": "camila.alves@outlook.com",
+      "password": "camila456"
+    },
+    {
+      "id": "e1f2a3b4-c5d6-7890-1234-f01234567890",
+      "name": "Ricardo Martins",
+      "email": "ricardo.martins@yahoo.com",
+      "password": "ricardo789"
+    },
+    {
+      "id": "f2a3b4c5-d6e7-8901-2345-01234567890a",
+      "name": "Fernanda Sousa",
+      "email": "fernanda.sousa@email.com",
+      "password": "fernanda321"
+    },
+    {
+      "id": "a3b4c5d6-e7f8-9012-3456-1234567890ab",
+      "name": "Gabriel Torres",
+      "email": "gabriel.torres@gmail.com",
+      "password": "gabriel654"
+    },
+    {
+      "id": "b4c5d6e7-f8a9-0123-4567-234567890abc",
+      "name": "Larissa Cunha",
+      "email": "larissa.cunha@hotmail.com",
+      "password": "larissa987"
+    },
+    {
+      "id": "c5d6e7f8-a9b0-1234-5678-34567890abcd",
+      "name": "Thiago Barbosa",
+      "email": "thiago.barbosa@outlook.com",
+      "password": "thiago123"
+    },
+    {
+      "id": "d6e7f8a9-b0c1-2345-6789-4567890abcde",
+      "name": "Priscila Ramos",
+      "email": "priscila.ramos@gmail.com",
+      "password": "priscila456"
+    },
+    {
+      "id": "e7f8a9b0-c1d2-3456-7890-567890abcdef",
+      "name": "Diego Cardoso",
+      "email": "diego.cardoso@yahoo.com",
+      "password": "diego789"
+    },
+    {
+      "id": "f8a9b0c1-d2e3-4567-8901-67890abcdef0",
+      "name": "Vanessa Melo",
+      "email": "vanessa.melo@email.com",
+      "password": "vanessa321"
+    },
+    {
+      "id": "a9b0c1d2-e3f4-5678-9012-7890abcdef01",
+      "name": "Bruno Araújo",
+      "email": "bruno.araujo@hotmail.com",
+      "password": "bruno654"
+    },
+    {
+      "id": "b0c1d2e3-f4a5-6789-0123-890abcdef012",
+      "name": "Tatiana Ribeiro",
+      "email": "tatiana.ribeiro@outlook.com",
+      "password": "tatiana987"
+    }
+  ]
+}
