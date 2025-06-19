@@ -1,32 +1,14 @@
 {
   "users": [
     {
-      "id": "b2c3d4e5-f6a7-8901-2345-67890abcdef0",
-      "name": "Maria Santos",
-      "email": "maria.santos@gmail.com",
-      "password": "maria123"
-    },
-    {
-      "id": "c3d4e5f6-a7b8-9012-3456-7890abcdef01",
-      "name": "Pedro Oliveira",
-      "email": "pedro.oliveira@hotmail.com",
-      "password": "pedro456"
-    },
-    {
-      "id": "d4e5f6a7-b8c9-0123-4567-890abcdef012",
-      "name": "Ana Costa",
-      "email": "ana.costa@outlook.com",
-      "password": "ana789"
-    },
-    {
       "id": "e5f6a7b8-c9d0-1234-5678-90abcdef0123",
-      "name": "Carlos Mendes",
-      "email": "carlos.mendes@yahoo.com",
+      "name": "Carlos Mendesds",
+      "email": "carlos.mendes@syahoo.com",
       "password": "carlos2024"
     },
     {
       "id": "f6a7b8c9-d0e1-2345-6789-0abcdef01234",
-      "name": "Beatriz Lima",
+      "name": "Beatriz Limas",
       "email": "beatriz.lima@gmail.com",
       "password": "beatriz321"
     },
@@ -113,6 +95,36 @@
       "name": "Tatiana Ribeiro",
       "email": "tatiana.ribeiro@outlook.com",
       "password": "tatiana987"
+    },
+    {
+      "id": "04b254d8-bbf0-41b9-881d-1808c220a714",
+      "email": "isaac@email.com",
+      "password": "123123123",
+      "name": "Isaac"
+    },
+    {
+      "id": "7386bab0-3aaf-45cb-8ef8-4d0cfccadbdf",
+      "email": "isaac_dev",
+      "password": "123456",
+      "name": "asdd"
+    },
+    {
+      "id": "ee88de99-877b-4f30-b443-ee989c8a8983",
+      "email": "isaac_dev",
+      "password": "123456",
+      "name": "asdasd"
+    },
+    {
+      "id": "3ce3091d-8259-4767-b49c-9a1b71762c8b",
+      "email": "isaac_dev",
+      "password": "123456",
+      "name": "asdasdasdasd"
+    },
+    {
+      "id": "efab9d86-d2be-40d4-bcd5-42e9933a82f7",
+      "email": "isaac_dev",
+      "password": "123456",
+      "name": "asd"
     }
   ]
 }

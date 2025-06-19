@@ -3,3 +3,12 @@ body{
   font-family: "Montserrat", sans-serif;
   color: white;
 }
+::-webkit-scrollbar{
+  width: 0.4rem;
+}
+::-webkit-scrollbar-thumb{
+  @apply bg-zinc-600
+}
+::-webkit-scrollbar-track{
+  background-color: transparent;
+}
