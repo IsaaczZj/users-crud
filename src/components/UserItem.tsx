@@ -4,9 +4,10 @@ import Button from "./Button";
 
 type UserItemProps = {
   user: User;
+  removeUser: (user: User) => void;
 };
 
-export default function UserItem({ user }: UserItemProps) {
+export default function UserItem({ user,removeUser }: UserItemProps) {
   return (
     <li className="bg-zinc-900 flex items-center px-6 py-3 justify-between">
       <div className="flex flex-col">
@@ -17,7 +18,7 @@ export default function UserItem({ user }: UserItemProps) {
         <Button variant="blue">
           <SquarePen />
         </Button>
-        <Button variant="red">
+        <Button variant="red" onClick={() => removeUser(user)}>
           <Trash2 />
         </Button>
       </div>
